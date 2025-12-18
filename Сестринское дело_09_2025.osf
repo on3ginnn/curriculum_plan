@@ -1,0 +1,2273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document type="РУП СПО" PrevName="Сестринское дело_09_2025.osf" PrevWrite="19.06.2025 16:10:11" LastName="Сестринское дело_09_2025.osf" LastWrite="11.07.2025 10:21:38" OST="4" FGOSPlus="False" FGOS4="True">
+  <RUP_Info version_number="30752" version_date="13.09.2021" />
+  <Title institute_name="Государственное автономное профессиональное образовательное учреждение «Альметьевский медицинский колледж»" spec_shifr="34.02.01 " spec_name="Сестринское дело" profile="естественно-научный" qualification="медицинская сестра/медицинский брат" RYP_number="527" ed_base="основное общее образование" ed_years="2" ed_month="10" director_name="Директор ГАПОУ &quot;Альметьевский медицинский колледж&quot;" director_FIO="Бешимова Д.Т." Uchreditel="Министерство здравоохранения Республики Татарстан" SPO_level="базовый" GOS_date="04.07.2022 0:00:00" year_begin="2025" ratif_date="24.02.2025 0:00:00" ed_type="1" ed_form="Очная" z_sem="1" elements_in_week="6" countI="2" plan_var_max="True" ShowAllBlocksForCmpt="1">
+    <VD>
+      <item num="1" name="Проведение мероприятий по профилактике инфекций, связанных с оказанием медицинской помощи" />
+      <item num="2" name="Ведение медицинской документации, организация деятельности находящегося в распоряжении медицинского персонала" />
+      <item num="3" name="Проведение мероприятий по профилактике неинфекционных и инфекционных заболеваний, формированию здорового образа жизни" />
+      <item num="4" name="Оказание медицинской помощи, осуществление сестринского ухода и наблюдения за пациентами при заболеваниях и (или) состояниях" />
+      <item num="5" name="Оказание медицинской помощи в экстренной форме" />
+    </VD>
+    <VZSettings>
+      <VZ ID="1000" AbbrItogo="Объём ОП" AbbrSem="Объём ОП" />
+      <VZ ID="1002" AbbrItogo="С преподавателем" AbbrSem="С препод." />
+      <VZ ID="107" AbbrItogo="Самост." AbbrSem="Самост." />
+      <VZ ID="141" AbbrItogo="Консультации" AbbrSem="Консульт." />
+      <VZ ID="101" AbbrItogo="Лекции, уроки" AbbrSem="Лекции, уроки" />
+      <VZ ID="103" AbbrItogo="Пр. занятия" AbbrSem="Пр. занятия" />
+      <VZ ID="102" AbbrItogo="Лаб. занятия" AbbrSem="Лаб. занятия" />
+      <VZ ID="104" AbbrItogo="Семинар. занятия" AbbrSem="Семинар. занятия" />
+      <VZ ID="105" AbbrItogo="Индивид. занятия" AbbrSem="Индивид. занятия" Hide="1" />
+      <VZ ID="139" AbbrItogo="Мелкогр. занятия" AbbrSem="Мелкогр. занятия" Hide="1" />
+      <VZ ID="114" AbbrItogo="Курс. проектир." AbbrSem="Курс. проектир." />
+      <VZ ID="108" AbbrItogo="Промежут. аттестация" AbbrSem="Промежут. аттестация" />
+      <VZ ID="140" AbbrItogo="Индивид. проект" AbbrSem="Индивид. проект" />
+    </VZSettings>
+    <Ratif WhoRatif="Педагогический совет ГАПОУ &quot;Альметьевский медицинский колледж&quot;" RatifDate="24.02.2025" RatifDocNum="4" />
+    <GYP>
+      <Course num="1" stud="30" group="1">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="AAAAAAAAAAAAAAAAAHH" />
+        <Imestr num="2" numFirstWeek="20" numFirstEl="1" graf="AAAAAAAAAAAAAAAAAAAAAABBHHHHHHHHH" />
+      </Course>
+      <Course num="2">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="AAAAAAAAAAAAAAADBHH" graf4="AAAAAAAAAAAAAACDBHH" />
+        <Imestr num="2" numFirstWeek="20" numFirstEl="1" graf="AAAAAAAAAAAAAAAAACCDDDABHHHHHHHHH" graf5="AAAAAAAAAAAAAAAAACCDDDBBHHHHHHHHH" />
+      </Course>
+      <Course num="3">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="AAAAAAAAAACCCDDDBHH" />
+        <Imestr num="2" numFirstWeek="20" numFirstEl="1" graf="AAAAAAAAAAACCDDBBEEEEFFFIIIIIIIII" graf4="AAAAAAAAAACCCDDBBEEEEFFFIIIIIIIII" />
+      </Course>
+      <Course num="4">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="20" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="5">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="6">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="7">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="8">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="9">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="10">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+      <Course num="11">
+        <Imestr num="1" numFirstWeek="1" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+        <Imestr num="2" numFirstWeek="27" numFirstEl="1" graf="IIIIIIIIIIIIIIIIIIIIIIIIII" />
+      </Course>
+    </GYP>
+    <SummaryData>
+      <Course num="1" CWE_A="12" CWE_K="66" CWE_Kwinter="12">
+        <Imestr num="1" numI="1" CWE_TOpure="102" CWE_TO="102" />
+        <Imestr num="2" numI="2" CWE_TOpure="132" CWE_TO="132" />
+      </Course>
+      <Course num="2" CWE_A="14" CWE_K="66" CWE_Kwinter="12">
+        <Imestr num="3" numI="1" CWE_TOpure="87" CWE_TO="87" CWE_PrY="3" CWE_PrP="6" />
+        <Imestr num="4" numI="2" CWE_TOpure="106" CWE_TO="106" CWE_PrY="12" CWE_PrP="18" />
+      </Course>
+      <Course num="3" CWE_A="18" CWE_K="12" CWE_Kwinter="12" CWE_GIA="18">
+        <Imestr num="5" numI="1" CWE_TOpure="60" CWE_TO="60" CWE_PrY="18" CWE_PrP="18" />
+        <Imestr num="6" numI="2" CWE_TOpure="63" CWE_TO="63" CWE_PrY="15" CWE_PrP="12" CWE_PrS="24" />
+      </Course>
+    </SummaryData>
+  </Title>
+  <Plan>
+    <block code="1" type="1" name="ВСЕГО ПО ДИСЦИПЛИНАМ И МДК">
+      <main_row type="1" o_maxN="4428" o_samN="100" itogo_oN="3308" itogo_teory="1880" itogo_pract="1408" itogo_kp="20" itogo_att="144" o_newCons="12" max_Var="828">
+        <semesters_info>
+          <semester num="1" itogo="612" lect="470" pr="142" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="2" samN="30" itogo="810" newCons="6" lect="664" pr="146" att="18" count_ex="4" count_zdif="11">
+            <control ID="1" complete="4" />
+            <control ID="3" complete="11" />
+          </semester>
+          <semester num="3" samN="10" itogo="530" lect="244" pr="286" att="18" count_ex="1" count_z="1" count_zdif="5" count_Other="7">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="5" />
+            <control ID="100" complete="7" />
+          </semester>
+          <semester num="4" samN="32" itogo="608" newCons="2" lect="216" pr="392" att="42" count_ex="4" count_z="3" count_zdif="5" count_Other="5">
+            <control ID="1" complete="4" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="5" />
+            <control ID="100" complete="5" />
+          </semester>
+          <semester num="5" samN="24" itogo="338" newCons="4" lect="106" pr="212" KP="20" att="30" count_ex="7" count_z="4" count_zdif="3" count_Other="2">
+            <control ID="1" complete="7" />
+            <control ID="2" complete="4" />
+            <control ID="3" complete="3" />
+            <control ID="5" complete="2" />
+            <control ID="100" complete="2" />
+          </semester>
+          <semester num="6" samN="4" itogo="410" lect="180" pr="230" att="36" count_ex="2" count_z="3" count_zdif="6" count_Other="9">
+            <control ID="1" complete="2" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="6" />
+            <control ID="100" complete="9" />
+          </semester>
+        </semesters_info>
+      </main_row>
+    </block>
+    <block code="2" type="1" index="ОП" name="ОБЩЕОБРАЗОВАТЕЛЬНАЯ ПОДГОТОВКА">
+      <main_row type="1" o_maxN="1476" o_samN="30" itogo_oN="1422" itogo_teory="1134" itogo_pract="288" itogo_att="18" o_newCons="6">
+        <semesters_info>
+          <semester num="1" itogo="612" lect="470" pr="142" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="2" samN="30" itogo="810" newCons="6" lect="664" pr="146" att="18" count_ex="4" count_zdif="11">
+            <control ID="1" complete="4" />
+            <control ID="3" complete="11" />
+          </semester>
+        </semesters_info>
+      </main_row>
+    </block>
+    <block code="13" type="1" index="НО" name="Начальное общее образование">
+      <main_row type="1">
+      </main_row>
+    </block>
+    <block code="14" type="1" index="ОО" name="Основное общее образование">
+      <main_row type="1">
+      </main_row>
+    </block>
+    <block code="17" type="1" index="СО" name="Среднее общее образование">
+      <main_row type="1" o_maxN="1476" o_samN="30" itogo_oN="1422" itogo_teory="1134" itogo_pract="288" itogo_att="18" o_newCons="6">
+        <semesters_info>
+          <semester num="1" itogo="612" lect="470" pr="142" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="2" samN="30" itogo="810" newCons="6" lect="664" pr="146" att="18" count_ex="4" count_zdif="11">
+            <control ID="1" complete="4" />
+            <control ID="3" complete="11" />
+          </semester>
+        </semesters_info>
+      </main_row>
+    </block>
+    <block code="3" type="1" index="ОД" name="Общие учебные предметы">
+      <main_row type="1" o_maxN="1372" o_samN="30" itogo_oN="1318" itogo_teory="1102" itogo_pract="216" itogo_att="18" o_newCons="6">
+        <semesters_info>
+          <semester num="1" itogo="576" lect="470" pr="106" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="2" samN="30" itogo="742" newCons="6" lect="632" pr="110" att="18" count_ex="4" count_zdif="9">
+            <control ID="1" complete="4" />
+            <control ID="3" complete="9" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="ОД.01" name="Русский язык" o_maxN="90" o_samN="10" itogo_oN="72" itogo_teory="72" itogo_att="6" o_newCons="2" complex="01-0">
+        <semesters_info>
+          <semester num="1" itogo="36" lect="36">
+          </semester>
+          <semester num="2" samN="10" itogo="36" newCons="2" lect="36" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.02" name="Литература" o_maxN="90" itogo_oN="90" itogo_teory="90" complex="01-1">
+        <semesters_info>
+          <semester num="1" itogo="36" lect="36">
+          </semester>
+          <semester num="2" itogo="54" lect="54" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.03" name="История" o_maxN="136" itogo_oN="136" itogo_teory="136">
+        <semesters_info>
+          <semester num="1" itogo="40" lect="40">
+          </semester>
+          <semester num="2" itogo="96" lect="96" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.04" name="Обществознание" o_maxN="108" itogo_oN="108" itogo_teory="108">
+        <semesters_info>
+          <semester num="1" itogo="54" lect="54">
+          </semester>
+          <semester num="2" itogo="54" lect="54" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.05" name="География" o_maxN="72" itogo_oN="72" itogo_teory="72">
+        <semesters_info>
+          <semester num="1" itogo="36" lect="36">
+          </semester>
+          <semester num="2" itogo="36" lect="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.06" name="Иностранный язык" o_maxN="72" itogo_oN="72" itogo_pract="72">
+        <semesters_info>
+          <semester num="1" itogo="34" pr="34">
+          </semester>
+          <semester num="2" itogo="38" pr="38" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.07" name="Математика" o_maxN="160" o_samN="10" itogo_oN="142" itogo_teory="142" itogo_att="6" o_newCons="2">
+        <semesters_info>
+          <semester num="1" itogo="60" lect="60">
+          </semester>
+          <semester num="2" samN="10" itogo="82" newCons="2" lect="82" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.08" name="Информатика" o_maxN="108" itogo_oN="108" itogo_teory="36" itogo_pract="72">
+        <semesters_info>
+          <semester num="1" itogo="54" lect="18" pr="36">
+          </semester>
+          <semester num="2" itogo="54" lect="18" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.09" name="Физическая культура" o_maxN="72" itogo_oN="72" itogo_pract="72">
+        <semesters_info>
+          <semester num="1" itogo="36" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="2" itogo="36" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.10" name="Основы безопасности и защиты Родины" o_maxN="68" itogo_oN="68" itogo_teory="68">
+        <semesters_info>
+          <semester num="1" itogo="32" lect="32">
+          </semester>
+          <semester num="2" itogo="36" lect="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.11" name="Физика" o_maxN="108" itogo_oN="108" itogo_teory="108">
+        <semesters_info>
+          <semester num="1" itogo="54" lect="54">
+          </semester>
+          <semester num="2" itogo="54" lect="54" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.12" name="Химия" o_maxN="144" itogo_oN="144" itogo_teory="144">
+        <semesters_info>
+          <semester num="1" itogo="52" lect="52">
+          </semester>
+          <semester num="2" itogo="92" lect="92" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОД.13" name="Биология" o_maxN="144" o_samN="10" itogo_oN="126" itogo_teory="126" itogo_att="6" o_newCons="2">
+        <semesters_info>
+          <semester num="1" itogo="52" lect="52">
+          </semester>
+          <semester num="2" samN="10" itogo="74" newCons="2" lect="74" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+    </block>
+    <block code="4" type="1" index="ВД" name="Выбранные учебные предметы">
+      <main_row type="1" o_maxN="104" itogo_oN="104" itogo_teory="32" itogo_pract="72">
+        <semesters_info>
+          <semester num="1" itogo="36" pr="36">
+          </semester>
+          <semester num="2" itogo="68" lect="32" pr="36" count_zdif="2">
+            <control ID="3" complete="2" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="ВД.01" name="Родной (татарский) язык" o_maxN="72" itogo_oN="72" itogo_pract="72">
+        <semesters_info>
+          <semester num="1" itogo="36" pr="36">
+          </semester>
+          <semester num="2" itogo="36" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ВД.02" name="Родной (русский) язык">
+      </disc>
+      <disc type="1" index="ВД.03" name="Родная (татарская) литература">
+      </disc>
+      <disc type="1" index="ВД.04" name="Родная (русская) литература">
+      </disc>
+      <disc type="1" index="ВД.05" name="Государственный (татарский) язык Республики Татарстан">
+      </disc>
+      <disc type="1" index="ВД.06" name="Индивидуальный проект" o_maxN="32" itogo_oN="32" itogo_teory="32">
+        <semesters_info>
+          <semester num="2" itogo="32" lect="32" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+    </block>
+    <block code="44" type="1" index="ДУП" name="Дополнительные учебные предметы по выбору обучающихся, предлагаемые организацией">
+      <main_row type="1">
+      </main_row>
+      <disc type="1" index="ДУП.01" name="Основы финансовой грамотности">
+      </disc>
+      <disc type="1" index="ПОО.02" name="Эффективное поведение на рынке труда">
+      </disc>
+    </block>
+    <block code="5" type="1" index="ПП" name="ПРОФЕССИОНАЛЬНАЯ ПОДГОТОВКА">
+      <main_row type="1" o_maxN="2844" o_samN="70" itogo_oN="1886" itogo_teory="746" itogo_pract="1120" itogo_kp="20" itogo_att="126" o_newCons="6" max_Var="828">
+        <semesters_info>
+          <semester num="3" samN="10" itogo="530" lect="244" pr="286" att="18" count_ex="1" count_z="1" count_zdif="5" count_Other="7">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="5" />
+            <control ID="100" complete="7" />
+          </semester>
+          <semester num="4" samN="32" itogo="608" newCons="2" lect="216" pr="392" att="42" count_ex="4" count_z="3" count_zdif="5" count_Other="5">
+            <control ID="1" complete="4" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="5" />
+            <control ID="100" complete="5" />
+          </semester>
+          <semester num="5" samN="24" itogo="338" newCons="4" lect="106" pr="212" KP="20" att="30" count_ex="7" count_z="4" count_zdif="3" count_Other="2">
+            <control ID="1" complete="7" />
+            <control ID="2" complete="4" />
+            <control ID="3" complete="3" />
+            <control ID="5" complete="2" />
+            <control ID="100" complete="2" />
+          </semester>
+          <semester num="6" samN="4" itogo="410" lect="180" pr="230" att="36" count_ex="2" count_z="3" count_zdif="6" count_Other="9">
+            <control ID="1" complete="2" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="6" />
+            <control ID="100" complete="9" />
+          </semester>
+        </semesters_info>
+      </main_row>
+    </block>
+    <block code="6" type="1" index="СГ" name="Социально - гуманитарный цикл">
+      <main_row type="1" o_maxN="346" o_samN="2" itogo_oN="344" itogo_teory="114" itogo_pract="230">
+        <semesters_info>
+          <semester num="3" samN="2" itogo="78" lect="38" pr="40" count_Other="3">
+            <control ID="100" complete="3" />
+          </semester>
+          <semester num="4" itogo="40" pr="40" count_zdif="1" count_Other="1">
+            <control ID="3" complete="1" />
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="5" itogo="42" pr="42" count_Other="2">
+            <control ID="100" complete="2" />
+          </semester>
+          <semester num="6" itogo="184" lect="76" pr="108" count_zdif="2" count_Other="3">
+            <control ID="3" complete="2" />
+            <control ID="100" complete="3" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="СГ.01" name="История России" o_maxN="32" o_samN="2" itogo_oN="30" itogo_teory="30" Cmptns="2&amp;5&amp;6">
+        <semesters_info>
+          <semester num="3" samN="2" itogo="30" lect="30" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="СГ.02" name="Иностранный язык в профессиональной деятельности" o_maxN="72" itogo_oN="72" itogo_pract="72" Cmptns="2&amp;3&amp;5&amp;9&amp;13&amp;16&amp;17&amp;19&amp;30">
+        <semesters_info>
+          <semester num="3" itogo="18" pr="18" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="4" itogo="16" pr="16" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="5" itogo="18" pr="18" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="6" itogo="20" pr="20" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="СГ.03" name="Безопасность жизнедеятельности" o_maxN="68" itogo_oN="68" itogo_teory="38" itogo_pract="30" Cmptns="1&amp;2&amp;4&amp;5&amp;6&amp;7&amp;8&amp;24&amp;27&amp;28">
+        <semesters_info>
+          <semester num="6" itogo="68" lect="38" pr="30" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="СГ.04" name="Физическая культура" o_maxN="110" itogo_oN="110" itogo_teory="8" itogo_pract="102" Cmptns="4&amp;6&amp;8&amp;17&amp;25">
+        <semesters_info>
+          <semester num="3" itogo="30" lect="8" pr="22" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="4" itogo="24" pr="24" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="5" itogo="24" pr="24" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="6" itogo="32" pr="32" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="СГ.05" name="Основы бережливого производства" o_maxN="32" itogo_oN="32" itogo_teory="18" itogo_pract="14" Cmptns="1&amp;2&amp;3&amp;4&amp;10&amp;13&amp;14&amp;18">
+        <semesters_info>
+          <semester num="6" itogo="32" lect="18" pr="14" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="СГ.06" name="Основы финансовой грамотности" o_maxN="32" itogo_oN="32" itogo_teory="20" itogo_pract="12" Cmptns="2&amp;3&amp;5&amp;9">
+        <semesters_info>
+          <semester num="6" itogo="32" lect="20" pr="12" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+    </block>
+    <block code="7" type="1">
+      <main_row type="1">
+      </main_row>
+    </block>
+    <block code="9" type="1" index="ОП" name="Общепрофессиональный цикл">
+      <main_row type="1" o_maxN="476" o_samN="2" itogo_oN="474" itogo_teory="240" itogo_pract="234" max_Var="140">
+        <semesters_info>
+          <semester num="3" samN="2" itogo="334" lect="170" pr="164" count_zdif="4" count_Other="3">
+            <control ID="3" complete="4" />
+            <control ID="100" complete="3" />
+          </semester>
+          <semester num="4" itogo="72" lect="36" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="6" itogo="68" lect="34" pr="34" count_Other="2">
+            <control ID="100" complete="2" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="ОП.01" name="Анатомия и физиология человека" o_maxN="140" itogo_oN="140" itogo_teory="76" itogo_pract="64" Cmptns="1&amp;2&amp;8&amp;16&amp;17&amp;18&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="3" itogo="68" lect="40" pr="28" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="4" itogo="72" lect="36" pr="36" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.02" name="Основы патологии" o_maxN="36" itogo_oN="36" itogo_teory="18" itogo_pract="18" Cmptns="1&amp;2&amp;3&amp;8&amp;16&amp;17&amp;18&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="3" itogo="36" lect="18" pr="18" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.03" name="Основы латинского языка с медицинской терминологией" o_maxN="36" itogo_oN="36" itogo_teory="18" itogo_pract="18" Cmptns="1&amp;2&amp;5&amp;9&amp;14&amp;16&amp;17&amp;18&amp;19&amp;20&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="3" itogo="36" lect="18" pr="18" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.04" name="Генетика с основами медицинской генетики" o_maxN="36" itogo_oN="36" itogo_teory="18" itogo_pract="18" Cmptns="1&amp;2&amp;3&amp;16&amp;17&amp;18&amp;21&amp;22&amp;23&amp;24&amp;25">
+        <semesters_info>
+          <semester num="6" itogo="36" lect="18" pr="18" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.05" name="Основы микробиологии и иммунологии" o_maxN="36" itogo_oN="36" itogo_teory="20" itogo_pract="16" complex="02-0" Cmptns="1&amp;2&amp;3&amp;7&amp;16&amp;17&amp;18&amp;19&amp;20&amp;22">
+        <semesters_info>
+          <semester num="3" itogo="36" lect="20" pr="16" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.06" name="Фармакология" o_maxN="70" o_samN="2" itogo_oN="68" itogo_teory="38" itogo_pract="30" max_Var="18" complex="02-1" Cmptns="1&amp;2&amp;3&amp;22&amp;23&amp;24">
+        <semesters_info>
+          <semester num="3" samN="2" itogo="68" lect="38" pr="30" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.07" name="Гигиена" o_maxN="40" itogo_oN="40" itogo_teory="16" itogo_pract="24" max_Var="40" Cmptns="1&amp;2&amp;3&amp;7&amp;16&amp;17&amp;18&amp;19&amp;20&amp;22">
+        <semesters_info>
+          <semester num="3" itogo="40" lect="16" pr="24" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.08" name="Психология профессионального общения" o_maxN="50" itogo_oN="50" itogo_teory="20" itogo_pract="30" max_Var="50" Cmptns="1&amp;2&amp;4&amp;5&amp;6&amp;9&amp;10&amp;13">
+        <semesters_info>
+          <semester num="3" itogo="50" lect="20" pr="30" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="ОП.09" name="Информационные технологии в профессиональной деятельности" o_maxN="32" itogo_oN="32" itogo_teory="16" itogo_pract="16" max_Var="32" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;9&amp;10&amp;13&amp;14&amp;17">
+        <semesters_info>
+          <semester num="6" itogo="32" lect="16" pr="16" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+    </block>
+    <block code="10" type="1" index="П" name="Профессиональный цикл">
+      <main_row type="1" o_maxN="2022" o_samN="66" itogo_oN="1068" itogo_teory="392" itogo_pract="656" itogo_kp="20" itogo_att="126" o_newCons="6" max_Var="688">
+        <semesters_info>
+          <semester num="3" samN="6" itogo="118" lect="36" pr="82" att="18" count_ex="1" count_z="1" count_zdif="1" count_Other="1">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="1" />
+          </semester>
+          <semester num="4" samN="32" itogo="496" newCons="2" lect="180" pr="316" att="42" count_ex="4" count_z="3" count_zdif="3" count_Other="4">
+            <control ID="1" complete="4" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="3" />
+            <control ID="100" complete="4" />
+          </semester>
+          <semester num="5" samN="24" itogo="296" newCons="4" lect="106" pr="170" KP="20" att="30" count_ex="7" count_z="4" count_zdif="3">
+            <control ID="1" complete="7" />
+            <control ID="2" complete="4" />
+            <control ID="3" complete="3" />
+            <control ID="5" complete="2" />
+          </semester>
+          <semester num="6" samN="4" itogo="158" lect="70" pr="88" att="36" count_ex="2" count_z="3" count_zdif="4" count_Other="4">
+            <control ID="1" complete="2" />
+            <control ID="2" complete="3" />
+            <control ID="3" complete="4" />
+            <control ID="100" complete="4" />
+          </semester>
+        </semesters_info>
+      </main_row>
+    </block>
+    <block code="3001" type="2" index="ПМ.01" name="Проведение мероприятий по профилактике инфекций, связанных с оказанием медицинской помощи">
+      <kv_exams type="3" index="ПM.01.Э" name="Экзамен по модулю" o_maxN="18" itogo_att="18">
+        <semesters_info>
+          <semester num="3" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="130" o_samN="6" itogo_oN="52" itogo_teory="16" itogo_pract="36" itogo_att="18">
+        <semesters_info>
+          <semester num="3" samN="6" itogo="52" lect="16" pr="36" att="18" count_ex="1" count_z="1" count_zdif="1" count_Other="1">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.01.01" name="Обеспечение безопасной окружающей среды в медицинской организации" o_maxN="58" o_samN="6" itogo_oN="52" itogo_teory="16" itogo_pract="36" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12">
+        <semesters_info>
+          <semester num="3" samN="6" itogo="52" lect="16" pr="36" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.01.01" name="Учебная практика" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.01.01" name="Производственная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <block code="3002" type="2" index="ПМ.02" name="Ведение медицинской документации, организация деятельности находящегося в распоряжении медицинского персонала">
+      <kv_exams type="3" index="ПM.02.Э" name="Экзамен по модулю" o_maxN="18" itogo_att="18">
+        <semesters_info>
+          <semester num="4" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="178" o_samN="6" itogo_oN="82" itogo_teory="28" itogo_pract="54" itogo_att="18" max_Var="32">
+        <semesters_info>
+          <semester num="4" samN="6" itogo="82" lect="28" pr="54" att="18" count_ex="1" count_z="1" count_zdif="1" count_Other="3">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="3" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.02.01" name="Документирование и контроль в профессиональной деятельности медицинской сестры" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+      </disc>
+      <disc type="1" index="МДК.02.01.01" name="Документооборот в деятельности медицинской сестры и обеспечение внутреннего контроля качества и безопасности медицинской деятельности" o_maxN="26" o_samN="2" itogo_oN="24" itogo_teory="10" itogo_pract="14" max_Var="10" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="24" lect="10" pr="14" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.02.01.02" name="Цифровая медицина" o_maxN="36" o_samN="2" itogo_oN="34" itogo_teory="2" itogo_pract="32" max_Var="12" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="34" lect="2" pr="32" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.02.02.03" name="Правовое обеспечение профессиональной деятельности медицинской сестры" o_maxN="26" o_samN="2" itogo_oN="24" itogo_teory="16" itogo_pract="8" max_Var="10" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="24" lect="16" pr="8" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.02.01.01" name="Учебная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="36" weeks="1" CWE="6" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.02.01.03" name="Производственная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;9&amp;13&amp;14&amp;15">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <block code="3003" type="2" index="ПМ.03" name="Проведение мероприятий по профилактике неинфекционных и инфекционных заболеваний, формированию здорового образа жизни">
+      <kv_exams type="3" index="ПM.03.Э" name="Экзамен по модулю" o_maxN="18" itogo_att="18">
+        <semesters_info>
+          <semester num="6" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="212" o_samN="2" itogo_oN="102" itogo_teory="38" itogo_pract="64" itogo_att="18" max_Var="30">
+        <semesters_info>
+          <semester num="6" samN="2" itogo="102" lect="38" pr="64" att="18" count_ex="1" count_z="2" count_zdif="1" count_Other="3">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="2" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="3" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.03.01" name="Здоровый образ жизни и профилактика заболеваний в разные возрастные периоды" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+      </disc>
+      <disc type="1" index="МДК.03.01.01" name="Здоровый образ жизни, основы профилактики заболеваний" o_maxN="32" itogo_oN="32" itogo_teory="12" itogo_pract="20" max_Var="7" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="6" itogo="32" lect="12" pr="20" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.03.01.02" name="Профилактика заболеваний в разные возрастные периоды" o_maxN="34" itogo_oN="34" itogo_teory="10" itogo_pract="24" max_Var="7" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="6" itogo="34" lect="10" pr="24" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.03.02" name="Сестринское дело в системе первичной медико-санитарной помощи" o_maxN="38" o_samN="2" itogo_oN="36" itogo_teory="16" itogo_pract="20" max_Var="16" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="6" samN="2" itogo="36" lect="16" pr="20" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.03.01" name="Учебная практика" complex="10-0" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="1" type="2" subtype="1" index="УП.03.02" name="Учебная практика" complex="10-1" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="36" weeks="1" CWE="6" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.03.01" name="Производственная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;16&amp;17&amp;18&amp;19&amp;20">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <block code="3004" type="2" index="ПМ.04" name="Оказание медицинской помощи, осуществление сестринского ухода и наблюдения за пациентами при заболеваниях и (или) состояниях">
+      <kv_exams type="3" index="ПM.04.ЭК" name="Экзамен по модулю" o_maxN="18" itogo_att="18">
+        <semesters_info>
+          <semester num="5" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="1066" o_samN="50" itogo_oN="704" itogo_teory="264" itogo_pract="420" itogo_kp="20" itogo_att="36" o_newCons="6" max_Var="480">
+        <semesters_info>
+          <semester num="3" itogo="66" lect="20" pr="46">
+          </semester>
+          <semester num="4" samN="26" itogo="342" newCons="2" lect="138" pr="204" att="6" count_ex="2" count_z="1" count_zdif="1">
+            <control ID="1" complete="2" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="5" samN="24" itogo="296" newCons="4" lect="106" pr="170" KP="20" att="30" count_ex="7" count_z="4" count_zdif="3">
+            <control ID="1" complete="7" />
+            <control ID="2" complete="4" />
+            <control ID="3" complete="3" />
+            <control ID="5" complete="2" />
+          </semester>
+          <semester num="6" count_zdif="1">
+            <control ID="3" complete="1" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.04.01" name="Общий уход за пациентами" o_maxN="146" o_samN="16" itogo_oN="122" itogo_teory="20" itogo_pract="102" itogo_att="6" o_newCons="2" max_Var="66" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="3" itogo="66" lect="20" pr="46">
+          </semester>
+          <semester num="4" samN="16" itogo="56" newCons="2" pr="56" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.02" name="Сестринский уход и реабилитация пациентов терапевтического профиля разных возрастных групп" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+      </disc>
+      <disc type="1" index="МДК.04.02.01" name="Сестринский уход и реабилитация пациентов терапевтического профиля" o_maxN="206" o_samN="12" itogo_oN="186" itogo_teory="86" itogo_pract="90" itogo_kp="10" itogo_att="6" o_newCons="2" max_Var="130" complex="05-0" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="114" lect="66" pr="48">
+          </semester>
+          <semester num="5" samN="10" itogo="72" newCons="2" lect="20" pr="42" KP="10" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+            <control ID="5" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.02.02" name="Сестринский уход и реабилитация пациентов детского возраста" o_maxN="106" o_samN="2" itogo_oN="104" itogo_teory="44" itogo_pract="60" max_Var="54" complex="05-1" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="54" lect="24" pr="30">
+          </semester>
+          <semester num="5" itogo="50" lect="20" pr="30" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.02.03" name="Сестринский уход и реабилитация пациентов с нервными и психическими заболеваниями" o_maxN="34" o_samN="2" itogo_oN="32" itogo_teory="14" itogo_pract="18" max_Var="12" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="32" lect="14" pr="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.02.04" name="Сестринский уход и реабилитация пациентов с инфекционными заболеваниями" o_maxN="54" o_samN="2" itogo_oN="52" itogo_teory="28" itogo_pract="24" max_Var="30" complex="05-2" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="26" lect="14" pr="12">
+          </semester>
+          <semester num="5" itogo="26" lect="14" pr="12" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.02.05" name="Сестринский уход и реабилитация пациентов с кожными и венерическими заболеваниями" o_maxN="32" o_samN="2" itogo_oN="30" itogo_teory="18" itogo_pract="12" max_Var="18" complex="05-3" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="5" samN="2" itogo="30" lect="18" pr="12" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.03" name="Сестринский уход за пациентами хирургического профиля" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+      </disc>
+      <disc type="1" index="МДК.04.03.01" name="Сестринский уход и реабилитация пациентов хирургического профиля" o_maxN="124" o_samN="12" itogo_oN="104" itogo_teory="34" itogo_pract="60" itogo_kp="10" itogo_att="6" o_newCons="2" max_Var="90" complex="06-0" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="4" samN="2" itogo="60" lect="20" pr="40">
+          </semester>
+          <semester num="5" samN="10" itogo="44" newCons="2" lect="14" pr="20" KP="10" att="6" count_ex="1">
+            <control ID="1" complete="1" />
+            <control ID="5" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="1" index="МДК.04.03.02" name="Сестринский уход и реабилитация пациентов акушерско-гинекологического профиля" o_maxN="76" o_samN="2" itogo_oN="74" itogo_teory="20" itogo_pract="54" max_Var="44" complex="06-1" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="5" samN="2" itogo="74" lect="20" pr="54" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.04.01" name="Учебная практика" complex="03-0" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="1" type="2" subtype="1" index="УП.04.02.01" name="Учебная практика" complex="07-0" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="36" weeks="1" CWE="6" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="1" type="2" subtype="1" index="УП.04.02.02" name="Учебная практика" complex="07-1" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="1" type="2" subtype="1" index="УП.04.03.01" name="Учебная практика" complex="08-0" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="1" type="2" subtype="1" index="УП.04.03.02" name="Учебная практика" complex="08-1" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="36" weeks="1" CWE="6" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.04.01" name="Производственная практика" complex="04-0" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.04.02.01" name="Производственная практика" complex="09-0" o_maxN="36" max_Var="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.04.02.02" name="Производственная практика" complex="09-1" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="18" weeks="0.5" CWE="3" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.04.03.01" name="Производственная практика" complex="09-2" o_maxN="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="18" weeks="0.5" CWE="3" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.04.03" name="Производственная практика" o_maxN="36" max_Var="18" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;21&amp;22&amp;23&amp;24&amp;25&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" hours="36" weeks="1" CWE="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <block code="3005" type="2" index="ПМ.05" name="Оказание медицинской помощи в экстренной форме">
+      <kv_exams type="3" index="ПM.05.Э" name="Экзамен по модулю" o_maxN="18" itogo_att="18">
+        <semesters_info>
+          <semester num="6" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="148" o_samN="2" itogo_oN="56" itogo_teory="32" itogo_pract="24" itogo_att="18" max_Var="2">
+        <semesters_info>
+          <semester num="6" samN="2" itogo="56" lect="32" pr="24" att="18" count_ex="1" count_z="1" count_zdif="1" count_Other="1">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.05.01" name="Участие медсестры в оказании медицинской помощи в экстренной форме" o_maxN="58" o_samN="2" itogo_oN="56" itogo_teory="32" itogo_pract="24" max_Var="2" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;8&amp;9&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="6" samN="2" itogo="56" lect="32" pr="24" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.05.01" name="Учебная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;8&amp;9&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="36" weeks="1" CWE="6" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.05.01" name="Производственная практика" o_maxN="36" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;8&amp;9&amp;26&amp;27&amp;28&amp;29">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <block code="3006" type="2" index="ПМ.06" name="Выполнение   работ по одной или нескольким профессиям   рабочих, должностям   служащих,  Младшая медицинская   сестра по уходу за   больными">
+      <kv_exams type="3" index="ПM.06.ЭК" name="Экзамен квалификационный" o_maxN="18" itogo_att="18" max_Var="18">
+        <semesters_info>
+          <semester num="4" att="18" count_ex="1">
+            <control ID="1" complete="1" />
+          </semester>
+        </semesters_info>
+      </kv_exams>
+      <main_row type="1" o_maxN="144" itogo_oN="72" itogo_teory="14" itogo_pract="58" itogo_att="18" max_Var="144">
+        <semesters_info>
+          <semester num="4" itogo="72" lect="14" pr="58" att="18" count_ex="1" count_z="1" count_zdif="1" count_Other="1">
+            <control ID="1" complete="1" />
+            <control ID="2" complete="1" />
+            <control ID="3" complete="1" />
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </main_row>
+      <disc type="1" index="МДК.06.01" name="Осуществление деятельности младшей медицинской сестры по уходу" o_maxN="72" itogo_oN="72" itogo_teory="14" itogo_pract="58" max_Var="72" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12&amp;22&amp;23">
+        <semesters_info>
+          <semester num="4" itogo="72" lect="14" pr="58" count_Other="1">
+            <control ID="100" complete="1" />
+          </semester>
+        </semesters_info>
+      </disc>
+      <practice code="1" type="2" subtype="1" index="УП.06.01" name="Учебная практика" complex="03-1" o_maxN="18" max_Var="18" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12&amp;22&amp;23">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="18" weeks="0.5" CWE="3" count_z="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="2" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+      <practice code="2" type="2" subtype="2" index="ПП.06.01" name="Производственная практика" complex="04-1" o_maxN="36" max_Var="36" Cmptns="1&amp;2&amp;3&amp;4&amp;7&amp;9&amp;10&amp;11&amp;12&amp;22&amp;23">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" hours="36" weeks="1" CWE="6" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+            <control ID="3" complete="1" />
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </practice>
+    </block>
+    <ConsultO>
+      <item numI="2" numC="1" value="6" />
+    </ConsultO>
+    <ConsultPP>
+      <item numI="2" numC="2" value="2" />
+      <item numI="1" numC="3" value="4" />
+    </ConsultPP>
+    <ConsultODop>
+      <item numI="2" numC="1" value="6" />
+    </ConsultODop>
+    <ConsultPPDop>
+      <item numI="2" numC="2" value="2" />
+      <item numI="1" numC="3" value="4" />
+    </ConsultPPDop>
+    <block code="11" type="1" name="Государственная итоговая аттестация">
+      <main_row type="1" o_maxN="108">
+      </main_row>
+      <disc type="2" subtype="4" name="Подготовка дипломного проекта (работы)">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="2" subtype="5" name="Защита дипломного проекта (работы)">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="2" subtype="6" name="Подготовка к государственным экзаменам" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;10&amp;11&amp;12&amp;13&amp;14&amp;15&amp;16&amp;17&amp;18&amp;19&amp;20&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </disc>
+      <disc type="2" subtype="7" name="Проведение государственных экзаменов" o_maxN="108" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;10&amp;11&amp;12&amp;13&amp;14&amp;15&amp;16&amp;17&amp;18&amp;19&amp;20&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29&amp;30">
+        <semesters_info>
+          <semester num="1" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="2" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="3" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="4" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="5" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="6" hours="108" weeks="3" CWE="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="7" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="8" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="9" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="10" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="11" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="12" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="13" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="14" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="15" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="16" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="17" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="18" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="19" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="20" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="21" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+          <semester num="22" lead_type="на подгр." ex_type="на чел.">
+          </semester>
+        </semesters_info>
+      </disc>
+    </block>
+    <IGA_preVKR />
+    <IGA_VKR />
+    <IGA_preEx />
+    <IGA_Ex>
+      <item numI="2" numC="3" value="3" CWE="18" />
+    </IGA_Ex>
+    <PracticeD code="1" type="2" subtype="3" index="ПДП" name="ПРОИЗВОДСТВЕННАЯ ПРАКТИКА ПО ПРОФИЛЮ СПЕЦИАЛЬНОСТИ" o_maxN="144" Cmptns="1&amp;2&amp;3&amp;4&amp;5&amp;6&amp;7&amp;8&amp;9&amp;10&amp;11&amp;12&amp;13&amp;14&amp;15&amp;16&amp;17&amp;18&amp;19&amp;20&amp;21&amp;22&amp;23&amp;24&amp;25&amp;26&amp;27&amp;28&amp;29&amp;30">
+      <semesters_info>
+        <semester num="1" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="2" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="3" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="4" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="5" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="6" hours="144" weeks="4" CWE="24" count_zdif="1" lead_type="на подгр." ex_type="на чел.">
+          <control ID="3" complete="1" />
+        </semester>
+        <semester num="7" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="8" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="9" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="10" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="11" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="12" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="13" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="14" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="15" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="16" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="17" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="18" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="19" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="20" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="21" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+        <semester num="22" lead_type="на подгр." ex_type="на чел.">
+        </semester>
+      </semesters_info>
+    </PracticeD>
+    <GosExams />
+  </Plan>
+  <Competences>
+    <item code="1" index="ОК 01." name="Выбирать способы решения задач профессиональной деятельности, применительно к различным контекстам;" />
+    <item code="2" index="ОК 02." name="Использовать современные средства поиска, анализа и интерпретации информации и информационные технологии для выполнения задач профессиональной деятельности;" />
+    <item code="3" index="ОК 03." name="Планировать и реализовывать собственное профессиональное и личностное развитие, предпринимательскую деятельность в профессиональной сфере, использовать знания по финансовой грамотности в различных жизненных ситуациях;" />
+    <item code="4" index="ОК 04." name="Эффективно взаимодействовать и работать в коллективе и команде;" />
+    <item code="5" index="ОК 05." name="Осуществлять устную и письменную коммуникацию на государственном языке Российской Федерации с учетом особенностей социального и культурного контекста;" />
+    <item code="6" index="ОК 06." name="Проявлять гражданско-патриотическую позицию, демонстрировать осознанное поведение на основе традиционных общечеловеческих ценностей, в том числе с учетом гармонизации межнациональных и межрелигиозных отношений, применять стандарты антикоррупционного поведения;" />
+    <item code="7" index="ОК 07." name="Содействовать сохранению окружающей среды, ресурсосбережению, применять знания об изменении климата, принципы бережливого производства, эффективно действовать в чрезвычайных ситуациях;" />
+    <item code="8" index="ОК 08." name="Использовать средства физической культуры для сохранения и укрепления здоровья в процессе профессиональной деятельности и поддержания необходимого уровня физической подготовленности;" />
+    <item code="9" index="ОК 09." name="Пользоваться профессиональной документацией на государственном и иностранном языках;" />
+    <item code="10" index="ПК 1.1." name="Организовывать рабочее место;" />
+    <item code="11" index="ПК 1.2." name="Обеспечивать безопасную окружающую среду;" />
+    <item code="12" index="ПК 1.3." name="Обеспечивать внутренний контроль качества и безопасности медицинской деятельности;" />
+    <item code="13" index="ПК 2.1." name="Заполнять медицинскую документацию, в том числе в форме электронного документа;" />
+    <item code="14" index="ПК 2.2." name="Использовать в работе медицинские информационные системы и информационно-телекоммуникационную сеть &quot;Интернет&quot;;" />
+    <item code="15" index="ПК 2.3." name="Контролировать выполнение должностных обязанностей находящимся в распоряжении медицинским персоналом;" />
+    <item code="16" index="ПК 3.1." name="Консультировать население по вопросам профилактики заболеваний;" />
+    <item code="17" index="ПК 3.2." name="Пропагандировать здоровый образ жизни;" />
+    <item code="18" index="ПК 3.3" name="Участвовать в проведении профилактических осмотров и диспансеризации населения;" />
+    <item code="19" index="ПК 3.4" name="Проводить санитарно-противоэпидемические мероприятия по профилактике инфекционных заболеваний;" />
+    <item code="20" index="ПК 3.5" name="Участвовать в иммунопрофилактике инфекционных заболеваний;" />
+    <item code="21" index="ПК 4.1" name="Проводить оценку состояния пациента;" />
+    <item code="22" index="ПК 4.2" name="Выполнять медицинские манипуляции при оказании медицинской помощи пациенту;" />
+    <item code="23" index="ПК 4.3" name="Осуществлять уход за пациентом;" />
+    <item code="24" index="ПК 4.5" name="Оказывать медицинскую помощь в неотложной форме;" />
+    <item code="25" index="ПК 4.6" name="Участвовать в проведении мероприятий медицинской реабилитации;" />
+    <item code="26" index="ПК 5.1" name="Распознавать состояния, представляющие угрозу жизни;" />
+    <item code="27" index="ПК 5.2" name="Оказывать медицинскую помощь в экстренной форме;" />
+    <item code="28" index="ПК 5.3" name="Проводить мероприятия по поддержанию жизнедеятельности организма пациента (пострадавшего) до прибытия врача или бригады скорой помощи;" />
+    <item code="29" index="ПК 5.4" name="Осуществлять клиническое использование крови и (или) ее компонентов." />
+    <item code="30" index="ПК 4.4" name="Обучать пациента (его законных представителей) и лиц, осуществляющих уход, приемам ухода и самоухода" />
+  </Competences>
+  <ComplexControls>
+    <item num="1" name="Комплексный экзамен" type="Экз" list_Imesters="2200000000000000000000" course="1" />
+    <item num="2" name="Комплексный диф. зачет" type="Диф. зач" list_Imesters="3300000000000000000000" course="2" />
+    <item num="3" name="Комплексный зачет" type="Зач" list_Imesters="4400000000000000000000" course="2" />
+    <item num="4" name="Комплексный диф. зачет" type="Диф. зач" list_Imesters="4400000000000000000000" course="2" />
+    <item num="5" name="Комплексный экзамен" type="Экз" list_Imesters="5555000000000000000000" course="3" />
+    <item num="6" name="Комплексный экзамен" type="Экз" list_Imesters="5500000000000000000000" course="3" />
+    <item num="7" name="Комплексный зачет" type="Зач" list_Imesters="5500000000000000000000" course="3" />
+    <item num="8" name="Комплексный зачет" type="Зач" list_Imesters="5500000000000000000000" course="3" />
+    <item num="9" name="Комплексный диф. зачет" type="Диф. зач" list_Imesters="5550000000000000000000" course="3" />
+    <item num="10" name="Комплексный зачет" type="Зач" list_Imesters="6600000000000000000000" course="3" />
+  </ComplexControls>
+  <Auditoriums>
+    <Row num_order="1" name="Кабинеты:" />
+    <Row num_order="2" name="Русского языка и литературы  " />
+    <Row num_order="3" name="Общественно-научных предметов" />
+    <Row num_order="4" name="Математики" />
+    <Row num_order="5" name="Информатики" />
+    <Row num_order="6" name="Основ безопасности и защиты Родины" />
+    <Row num_order="7" name="Физики" />
+    <Row num_order="8" name="Химии" />
+    <Row num_order="9" name="Биологии" />
+    <Row num_order="10" name="Родного языка" />
+    <Row num_order="11" name="Социально-гуманитарных дисциплин  " />
+    <Row num_order="12" name="Иностранного языка" />
+    <Row num_order="13" name="Безопасности жизнедеятельности" />
+    <Row num_order="14" name="Информационных технологий в профессиональной деятельности" />
+    <Row num_order="15" name="Анатомии и физиологии человека с основами патологии" />
+    <Row num_order="16" name="Основ микробиологии и иммунологии" />
+    <Row num_order="17" name="Генетики человека с медицинской генетикой" />
+    <Row num_order="18" name="Фармакологии и основ латинского языка с медицинской терминологией" />
+    <Row num_order="19" name="Сестринского дела" />
+    <Row num_order="20" name="Основ профилактики" />
+    <Row num_order="21" name="Спортивный комплекс:" />
+    <Row num_order="22" name="Спортивный зал" />
+    <Row num_order="23" name="Залы:" />
+    <Row num_order="24" name="Библиотека, читальный зал с выходом в интернет" />
+    <Row num_order="25" name="Актовый зал" />
+  </Auditoriums>
+  <Explanation />
+  <Adjust />
+  <Consultations />
+  <SpecWorks>
+    <diplom>
+      <work_types>
+        <item name="Руководство" hours_type="на чел." />
+        <item name="Рецензирование" hours_type="на чел." />
+        <item name="Нормоконтроль" hours_type="на чел." />
+      </work_types>
+      <consult>
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+        <item hours_type="на чел." />
+      </consult>
+      <gak>
+        <item hours_type="на чел." />
+        <item hours_type="на чел." ind="1" />
+        <item hours_type="на чел." ind="2" />
+        <item hours_type="на чел." ind="3" />
+        <item hours_type="на чел." ind="4" />
+        <item hours_type="на чел." ind="5" />
+        <item hours_type="на чел." ind="6" />
+        <item hours_type="на чел." ind="7" />
+        <item hours_type="на чел." ind="8" />
+        <item hours_type="на чел." ind="9" />
+        <item hours_type="на чел." ind="10" />
+      </gak>
+    </diplom>
+    <spec_exam>
+      <gak>
+        <item hours_type="на чел." />
+        <item hours_type="на чел." ind="1" />
+        <item hours_type="на чел." ind="2" />
+        <item hours_type="на чел." ind="3" />
+        <item hours_type="на чел." ind="4" />
+        <item hours_type="на чел." ind="5" />
+        <item hours_type="на чел." ind="6" />
+        <item hours_type="на чел." ind="7" />
+        <item hours_type="на чел." ind="8" />
+        <item hours_type="на чел." ind="9" />
+        <item hours_type="на чел." ind="10" />
+      </gak>
+    </spec_exam>
+  </SpecWorks>
+  <SpecPractices>
+    <practice01>
+      <item ind="УП.01.01" name="Учебная практика" semester="3" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.02.01.01" name="Учебная практика" semester="4" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.04.01" name="Учебная практика" semester="4" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.06.01" name="Учебная практика" semester="4" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.04.02.01" name="Учебная практика" semester="5" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.04.02.02" name="Учебная практика" semester="5" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.04.03.01" name="Учебная практика" semester="5" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.04.03.02" name="Учебная практика" semester="5" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.03.01" name="Учебная практика" semester="6" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.03.02" name="Учебная практика" semester="6" lead_type="на подгр." control="Зач" ex_type="на чел." />
+      <item ind="УП.05.01" name="Учебная практика" semester="6" lead_type="на подгр." control="Зач" ex_type="на чел." />
+    </practice01>
+    <practice02>
+      <item ind="ПП.01.01" name="Производственная практика" semester="3" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.02.01.03" name="Производственная практика" semester="4" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.04.01" name="Производственная практика" semester="4" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.06.01" name="Производственная практика" semester="4" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.04.02.01" name="Производственная практика" semester="5" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.04.02.02" name="Производственная практика" semester="5" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.04.03.01" name="Производственная практика" semester="5" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.04.03" name="Производственная практика" semester="5" lead_type="на подгр." ex_type="на чел." />
+      <item ind="ПП.03.01" name="Производственная практика" semester="6" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+      <item ind="ПП.05.01" name="Производственная практика" semester="6" lead_type="на подгр." control="ДифЗач" ex_type="на чел." />
+    </practice02>
+    <practice03 />
+  </SpecPractices>
+</Document>
